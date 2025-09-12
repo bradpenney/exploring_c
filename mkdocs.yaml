@@ -50,3 +50,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Hello World: hello_world.md
