@@ -33,6 +33,9 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
   palette:
     scheme: slate
     primary: black
@@ -82,6 +85,9 @@ plugins:
         color: "#cbd5e0"
 
 markdown_extensions:
+  - toc:
+      permalink: "🔗"
+      permalink_title: "Link to this section"
   - admonition
   - pymdownx.details
   - pymdownx.highlight:
