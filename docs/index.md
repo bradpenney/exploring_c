@@ -22,3 +22,9 @@ curious about how C shaped the Linux kernel, this space is for you.
 Stick around — I’ll be adding notes, experiments, and lessons learned as I
 work through Modern C (Jens Gustedt, 2024) and classic texts like *APUE*.
 Thanks for visiting, and happy hacking in C! 👋
+
+## Subscribe by RSS
+
+New articles publish straight to the [RSS feed](https://c.bradpenney.io/feed_rss_created.xml) — no algorithm, no email required.
+
+<a href="https://iheartrss.com/"><img src="https://iheartrss.com/iheartrss-dark.svg" alt="I ♥ RSS" width="88" height="31"></a>
