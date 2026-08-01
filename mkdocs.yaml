@@ -73,6 +73,7 @@ plugins:
   - meta
   - rss:
       match_path: ".*"
+      pretty_print: true
       image: https://c.bradpenney.io/images/exploring_c.png
       abstract_chars_count: 160
       length: 20
