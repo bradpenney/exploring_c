@@ -23,6 +23,8 @@ Stick around — I’ll be adding notes, experiments, and lessons learned as I
 work through Modern C (Jens Gustedt, 2024) and classic texts like *APUE*.
 Thanks for visiting, and happy hacking in C! 👋
 
+New here? Start with [Hello, World](hello_world.md) — the smallest program C can run, and the shape every C file follows from here on.
+
 ## Part of the BradPenney.io Network
 
 C is the language underneath a lot of the other sites here — the Linux kernel, most compilers, and a good chunk of embedded firmware are written in it. This site is part of a family of progressive technical learning resources:

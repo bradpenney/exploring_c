@@ -67,10 +67,18 @@ theme:
     - content.code.highlight
     - content.tooltips
     - content.code.mermaid
+    - navigation.path
 
 plugins:
   - search
   - meta
+  - exclude:
+      glob:
+        # Drafts — commented out of nav below. Keeps them out of the build,
+        # sitemap, and search index until they're ready to publish.
+        - "fundamentals/compilation_process.md"
+        - "fundamentals/what_is_a_pointer.md"
+        - "fundamentals/stack_vs_heap.md"
   - rss:
       match_path: ".*"
       pretty_print: true

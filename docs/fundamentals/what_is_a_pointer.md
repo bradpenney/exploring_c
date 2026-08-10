@@ -1,3 +1,9 @@
+---
+date: "2026-06-13 22:36"
+title: "What Is a Pointer in C? A Plain-English Introduction"
+description: "Pointers are C's biggest source of new-programmer headaches — and its most powerful feature. A house-analogy walkthrough of what a pointer actually holds and why it matters."
+---
+
 # What is a Pointer?
 
 Pointers are the "magic wands" of C. They give you the power to manipulate your computer's memory directly. They are also the #1 cause of headaches for new C programmers. 

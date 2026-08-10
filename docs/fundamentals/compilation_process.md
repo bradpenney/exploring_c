@@ -1,3 +1,9 @@
+---
+date: "2026-06-13 22:36"
+title: "The C Compilation Process: Preprocessor to Executable"
+description: "gcc main.c -o app looks like one step. Learn the four real stages — preprocessing, compilation, assembly, linking — behind every C build, and why linker errors happen where they do."
+---
+
 # The C Compilation Process
 
 When you run a command like `gcc main.c -o app`, it looks like a single step. In reality, your code is traveling through a four-stage assembly line. Understanding this pipeline is essential for debugging linker errors and managing large projects.

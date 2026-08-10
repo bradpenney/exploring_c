@@ -1,3 +1,9 @@
+---
+date: "2026-06-13 22:36"
+title: "The Stack vs. the Heap in C: Where Variables Actually Live"
+description: "Python and Java hide it from you. In C, whether a variable lives on the Stack or the Heap is the difference between a stable program and a crash. Here's how each works."
+---
+
 # The Stack vs. The Heap
 
 In languages like Python or Java, you don't really worry about where variables "live." In C, understanding the difference between **Stack** memory and **Heap** memory is the difference between a stable program and a crash.
