@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Exploring C",
+    "home_page_url": "https://c.bradpenney.io/",
+    "feed_url": "https://c.bradpenney.io/feed_json_created.json",
+    "description": "Learn the C programming language from first principles \u2014 memory, pointers, and the fundamentals that underpin systems programming.",
+    "icon": "https://c.bradpenney.io/images/exploring_c.png",
+    "authors": [
+        {
+            "name": "Brad Penney"
+        }
+    ],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://c.bradpenney.io/",
+            "url": "https://c.bradpenney.io/",
+            "title": "Home",
+            "content_html": "<p><img src=\"images/exploring_c.png\" alt=\"Exploring C\" class=\"img-responsive-right\" width=\"300\"></p>\n<h1>Welcome to Exploring C</h1>\n<p>This site is all about digging into ...</p>",
+            "image": null,
+            "date_modified": "2026-09-01T01:07:20-03:00",
+            "date_published": "2026-09-01T01:07:20-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://c.bradpenney.io/hello_world/",
+            "url": "https://c.bradpenney.io/hello_world/",
+            "title": "Hello World",
+            "content_html": "<h1>Hello World</h1>\n<p>Here's a simple \"Hello, World!\" program written in C. This program demonstrates the basic structure\nof a C program, including the inclusion of...</p>",
+            "image": null,
+            "date_modified": "2026-09-01T01:07:20-03:00",
+            "date_published": "2026-09-01T01:07:20-03:00",
+            "authors": [],
+            "tags": []
+        }
+    ]
+}

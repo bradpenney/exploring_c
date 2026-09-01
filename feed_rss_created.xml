@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Exploring C</title>
+    <description>Learn the C programming language from first principles — memory, pointers, and the fundamentals that underpin systems programming.</description>
+    <link>https://c.bradpenney.io/</link>
+    <atom:link href="https://c.bradpenney.io/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Brad Penney</managingEditor>
+    
+    <language>en</language>
+
+    
+    <pubDate>Tue, 01 Sep 2026 01:08:00 -0000</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:08:00 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.19.0</generator>
+
+    
+    
+    <image>
+      <url>https://c.bradpenney.io/images/exploring_c.png</url>
+      <title>Exploring C</title>
+      <link>https://c.bradpenney.io/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Home</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;p&gt;&lt;img src=&#34;images/exploring_c.png&#34; alt=&#34;Exploring C&#34; class=&#34;img-responsive-right&#34; width=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;h1&gt;Welcome to Exploring C&lt;/h1&gt;
+&lt;p&gt;This site is all about digging into ...&lt;/p&gt;</description>
+      <link>https://c.bradpenney.io/</link>
+      <pubDate>Tue, 01 Sep 2026 01:07:20 -0300</pubDate>
+      <source url="https://c.bradpenney.io/feed_rss_created.xml">Exploring C</source>
+      
+      <guid isPermaLink="true">https://c.bradpenney.io/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;Here&#39;s a simple &#34;Hello, World!&#34; program written in C. This program demonstrates the basic structure
+of a C program, including the inclusion of...&lt;/p&gt;</description>
+      <link>https://c.bradpenney.io/hello_world/</link>
+      <pubDate>Tue, 01 Sep 2026 01:07:20 -0300</pubDate>
+      <source url="https://c.bradpenney.io/feed_rss_created.xml">Exploring C</source>
+      
+      <guid isPermaLink="true">https://c.bradpenney.io/hello_world/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
