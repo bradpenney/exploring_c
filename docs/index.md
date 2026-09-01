@@ -1,3 +1,7 @@
+---
+title: "Memory, Pointers, and Systems Programming"
+---
+
 <img src="images/exploring_c.png" alt="Exploring C" class="img-responsive-right" width="300">
 
 # Welcome to Exploring C
